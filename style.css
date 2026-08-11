@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    background: linear-gradient(135deg, #5784ab, #b7eff1);
 }
 
 .login-container {
@@ -62,7 +62,7 @@ button {
 }
 
 button:hover {
-    background: #3399ff;
+    background: #4d91d5;
 }
 
 .signup-link {
